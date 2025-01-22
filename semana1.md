@@ -24,6 +24,8 @@ La Inteligencia Artificial (IA) es el campo dedicado al desarrollo de agentes ra
 ## ¿Qué es un agente?
 Un **agente** es una entidad que percibe su entorno mediante sensores y actúa sobre él mediante actuadores. Ejemplos incluyen humanos, robots, aplicaciones de software y dispositivos simples como termostatos.
 
+![](./images/im1_s1.png)
+
 ### Función del agente
 La **función del agente** (AgentFn) mapea las percepciones históricas a acciones:
 \[
