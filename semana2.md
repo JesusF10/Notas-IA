@@ -43,21 +43,17 @@ Mitchell proporciona una definición más formal, donde el aprendizaje ocurre cu
 
 ## Generalización  
 
-- **Error en muestra (\(E_{in}\))**:  
-  \[
-  E_{in} = \frac{1}{N} \sum_{i=1}^N e(y^{(i)}, \hat{y}^{(i)})
-  \]  
+- **Error en muestra (E_in)**:  
+  \( E_{in} = (1/N) \sum_{i=1}^N e(y^{(i)}, \hat{y}^{(i)}) \)  
   Es el error calculado dentro del conjunto de entrenamiento.  
 
-- **Error fuera de muestra (\(E_{out}\))**:  
-  \[
-  E_{out} = \mathbb{E}_{x \in X}[e(y, \hat{y})]
-  \]  
+- **Error fuera de muestra (E_out)**:  
+  \( E_{out} = \mathbb{E}_{x \in X}[e(y, \hat{y})] \)  
   Representa el error esperado en datos nuevos o no vistos durante el entrenamiento.  
 
 - **Condiciones para el aprendizaje**:  
-  - El aprendizaje existe si y solo si \(E_{out} \approx 0\).  
-  - Esto requiere que \(E_{in} \approx 0\) y \(E_{in} \approx E_{out}\).  
+  - El aprendizaje existe si y solo si \( E_{out} \approx 0 \).  
+  - Esto requiere que \( E_{in} \approx 0 \) y \( E_{in} \approx E_{out} \).  
 
 ---
 
