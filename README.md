@@ -7,4 +7,4 @@ Notas de clase semanales para la clase de Inteligencia Artificial
 + [Regresion y Descenso del Gradiente](semana3.md)
 + [Fundamentos de busquedas](semana4_pt1.md)
 + [Busquedas Informadas](semana4_pt2.md)
-+ 
++ [Juegos con Adversarios](juegos_adversarios.md)
