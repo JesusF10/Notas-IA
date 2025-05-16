@@ -9,3 +9,5 @@ Notas de clase semanales para la clase de Inteligencia Artificial
 + [Busquedas Informadas](semana4_pt2.md)
 + [Juegos con Adversarios](juegos_adversarios.md)
 + [MDPs](mdps.md)
++ [CSPs](csps.md)
++ [Inferencia Bayesiana](inferencia_bayesiana.md)
